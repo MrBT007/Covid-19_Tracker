@@ -12,4 +12,6 @@
     <color name="blue">#0070ba</color>
     <color name="cvColor">#FFFFFFFF</color>
 
+    <color name="IndianRed">#CD5C5C</color>
+
 </resources>
