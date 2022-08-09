@@ -3,7 +3,7 @@
 
 This is basic App which display the Covid-19 cases of India.
 * Its basically Fetch API given by "Let's Grow More" and shows the data.
-* This is App is made during "Let's Grow More" Internship Program. 
+* This is App was made during "Let's Grow More" Internship Program. 
 
 ## API Reference
 
