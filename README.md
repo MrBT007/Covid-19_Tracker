@@ -2,7 +2,7 @@
 # Covid-19 Tracker App
 
 This is basic App which display the Covid-19 cases of India.
-* Its basically Fetch API given by "Let's Grow More" and shows the data.
+* Its basically Fetches the API given by "Let's Grow More" and shows the data.
 * This App was made during "Let's Grow More" Internship Program. 
 
 ## API Reference
